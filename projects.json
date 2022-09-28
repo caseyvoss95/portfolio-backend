@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "THAT'S a THING??",
+      "live": "https://caseyvoss95.github.io/THATS-a-thing/",
+      "git": "https://github.com/caseyvoss95/THATS-a-thing",
+      "image": "https://github.com/caseyvoss95/THATS-a-thing/raw/main/assets/screenshot.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Setlystr",
+      "live": "https://setlystr.herokuapp.com/setlist/",
+      "git": "https://github.com/caseyvoss95/Setlystr/tree/main-song-list",
+      "image": "https://github.com/caseyvoss95/Setlystr/raw/main-song-list/screenshot.png"
     }
   ]
